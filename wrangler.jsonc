@@ -1,0 +1,5 @@
+{
+  "name": "subscription-manager",
+  "compatibility_date": "2026-01-17",
+  "main": "index.js"
+}
